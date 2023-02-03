@@ -16,14 +16,10 @@
   This application will walk you through creating a professional README.md for your project. It uses the inquirer package to do so. 
   ## Installation
   To install this application:
-  
-    1. Clone this repository to your local machine
-    
-    2. Open your CLI of choice and navigate to the repository.
-    
-    3. Run `npm install` to install the required packages.
-    
-    4. Run command `node index.js` and follow the prompts.
+  1. Clone this repository to your local machine
+  2. Open your CLI of choice and navigate to the repository.
+  3. Run `npm install` to install the required packages.
+  4. Run command `node index.js` and follow the prompts.
     
   >For a video walkthrough, click [here](video.url).
   
