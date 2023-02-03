@@ -58,18 +58,17 @@ function generateMarkdown(data) {
   * [Contact Information](#ContactInfo)
   ## Description
   ${data.description}
-  ## Installation Instructions
+  ## Installation
   ${data.install_instructions}
-  ## Usage Information
+  ## Usage
   ${data.usage_information}
-  ## Contribution Guidelines 
+  ## Contributions
   ${data.contribution_guidelines}
   ## Tests 
   ${data.test_instruction}
   ## License
   ${renderLicenseSection(data.license, data.year, data.dev_name)}
-  
-  ## Contact Information 
+  ## ContactInfo
   For questions, queries or comments, contact me here: 
   [https://github.com/${data.user}](https://github.com/${data.user})
 

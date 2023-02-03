@@ -50,7 +50,7 @@ let questions = () =>
       name: "license",
       type: "list",
       message: "Select the license",
-      choices: ["MIT", "APACHE", "GPL", "BSD", "Public Domain",],
+      choices: ["MIT", "APACHE", "GPL", "BSD", "PublicDomain",],
     },
     {
       name: "user",
