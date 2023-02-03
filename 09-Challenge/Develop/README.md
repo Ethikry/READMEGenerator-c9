@@ -1,4 +1,4 @@
-# This is a test
+# README Generator
 
   
   ![License Badge](https://img.shields.io/badge/license-undefined-blue.svg)
@@ -6,22 +6,22 @@
 
   ## Table of Contents 
   * [Description](#Description)
-  * [Installation](#Installation Instructions)
-  * [Usage Information](#Usage Information)
-  * [Contribution Guidelines](#Contribution Guidelines)
+  * [Installation](#Installation)
+  * [Usage Information](#Usage)
+  * [Contribution Guidelines](#Contributions)
   * [Tests](#Tests)
   * [License](#License)
-  * [Contact Information](#Contact Information)
+  * [Contact Information](#ContactInfo)
   ## Description
-  description test
+  This application will walk you through creating a professional README.md for your project. It uses the inquirer package to do so. 
   ## Installation Instructions
-  install test
+  
   ## Usage Information
-  usage test
+  
   ## Contribution Guidelines 
-  contribution guidlines test
+  Not accepting contributions to this project currently.
   ## Tests 
-  test test
+  
   ## License
   
   
@@ -32,5 +32,6 @@
   
   
   ## Contact Information 
-  For questions, queries or comments, contact me here: [https://github.com/Ethikry] 
+  For questions, queries or comments, contact me here: 
+  [https://github.com/Ethikry](https://github.com/Ethikry)
 

@@ -50,12 +50,12 @@ function generateMarkdown(data) {
 
   ## Table of Contents 
   * [Description](#Description)
-  * [Installation](#Installation Instructions)
-  * [Usage Information](#Usage Information)
-  * [Contribution Guidelines](#Contribution Guidelines)
+  * [Installation](#Installation)
+  * [Usage Information](#Usage)
+  * [Contribution Guidelines](#Contributions)
   * [Tests](#Tests)
   * [License](#License)
-  * [Contact Information](#Contact Information)
+  * [Contact Information](#ContactInfo)
   ## Description
   ${data.description}
   ## Installation Instructions
@@ -70,7 +70,8 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license, data.year, data.dev_name)}
   
   ## Contact Information 
-  For questions, queries or comments, contact me here: [https://github.com/${data.questions}] 
+  For questions, queries or comments, contact me here: 
+  [https://github.com/${data.user}](https://github.com/${data.user})
 
 `;
 }

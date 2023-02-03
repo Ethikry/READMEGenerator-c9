@@ -53,9 +53,9 @@ let questions = () =>
       choices: ["MIT", "APACHE", "GPL", "BSD", "Public Domain",],
     },
     {
-      name: "questions",
+      name: "user",
       type: "input",
-      message: "Where can you be contacted?",
+      message: "What is your Github username (for contact purposes)?",
     },
   ]);
 
