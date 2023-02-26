@@ -21,7 +21,7 @@
   3. Run `npm install` to install the required packages.
   4. Run command `node index.js` and follow the prompts.
     
-  >For a video walkthrough, click [here](video.url).
+  >For a video walkthrough, click [here](https://youtu.be/rXmMFDtXres).
   
   ## Usage
   This application is to be used for generating professional README.mds for various projects. 
@@ -30,7 +30,7 @@
   Not accepting contributions to this project currently.
   ## Tests 
   To test this program, first install it (see installation instructions [here](#Installation)).
-  A video walkthrough and example is provided [here](video.url).
+  A video walkthrough and example is provided [here](https://youtu.be/rXmMFDtXres).
   
   ## License
   
