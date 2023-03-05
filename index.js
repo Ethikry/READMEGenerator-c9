@@ -28,7 +28,7 @@ let questions = () =>
     },
     {
       name: "install_instructions",
-      type: "input",
+      type: "editor",
       message: "How do you install this project?",
     },
     {
@@ -50,7 +50,7 @@ let questions = () =>
       name: "license",
       type: "list",
       message: "Select the license",
-      choices: ["MIT", "APACHE", "GPL", "BSD", "PublicDomain",],
+      choices: ["MIT", "APACHE", "GPL", "BSD", "PublicDomain"],
     },
     {
       name: "user",
@@ -73,7 +73,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
   questions().then((answer) => {
-    writeToFile("README.md", generateMarkdown(answer));
+    writeToFile("./public/README.md", generateMarkdown(answer));
   });
 }
 
